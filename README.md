@@ -30,7 +30,7 @@ Good luck and happy coding! 🚀💻
 
 ##  Live Website
 
-🔗 [Visit MindMatters Live](https://your-deployment-link.netlify.app)
+🔗 [Visit MindMatters Live]https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-Barno-J/ 
 
 ## ✅ Features
 
